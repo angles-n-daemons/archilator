@@ -1,0 +1,24 @@
+{
+  "name": "archilator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angles-n-daemons/archilator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angles-n-daemons/archilator/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/angles-n-daemons/archilator#readme",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
