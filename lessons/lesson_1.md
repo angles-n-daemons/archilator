@@ -14,14 +14,6 @@ To start on the Archilator project, you should clone down the repository to your
 
 Install the dependencies `npm i` and ensure that both the `npm start` and `npm test` commands work.
 
-# Running tests
-
-Why do you run tests?
-
-Resources after
-
-https://www.youtube.com/watch?v=u6QfIXgjwGQ
-
 # Homework
 
 Your homework for this week will be focused on three high level goals.
