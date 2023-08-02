@@ -2,7 +2,7 @@
 
 Welcome to the Archilator project! Hope you're excited to start learning about programming langauges.
 
-Over the course of this project you'll learn how to build a real-live calculator, which is capable of calculating arbitrarily complex expressions. The goals are to develop a better understanding of software development, software testing and some algorithm / data structure principles.
+Over the course of this project you'll learn how to build a real-life calculator, which is capable of calculating arbitrarily complex expressions. The goals are to develop a better understanding of software development, software testing and some algorithm / data structure principles.
 
 This project leans heavily on the content from [Crafting Interpreters](https://craftinginterpreters.com/contents.html), specifically Chapters 1, 2 and 4 - 7.
 
