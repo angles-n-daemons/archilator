@@ -17,3 +17,6 @@ Resources after
 https://www.youtube.com/watch?v=u6QfIXgjwGQ
 
 # Homework
+
+Watch videos on unit testing
+Try to get the tests working (try).
