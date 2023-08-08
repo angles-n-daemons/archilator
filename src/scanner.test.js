@@ -28,4 +28,11 @@ describe('Scanner', function() {
         expect(tokens[3].type).toEqual(3);
         expect(tokens[6].type).toEqual(1.2);
     });
+
+    it('fails if there is a token it does not recognize', function() {
+        expect(function() {
+            const scanner = new Scanner('#');
+            const tokens = scanner.scanTokens();
+        }).toThrow(Error);
+    });
 });

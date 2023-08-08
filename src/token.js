@@ -1,4 +1,4 @@
-export const TokentType = {
+export const TokenType = {
     LEFT_PAREN: 'LEFT_PAREN',
     RIGHT_PAREN: 'RIGHT_PAREN',
     MINUS: 'MINUS',
