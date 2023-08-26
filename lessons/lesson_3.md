@@ -90,7 +90,7 @@ verifyInOrder(root);
 
 Now that you understand trees, we're going to work on turning math expressions into trees. Read the following article to better understand how this can be done.
 
-https://trkern.github.io/tree
+https://www.educative.io/answers/how-to-represent-a-mathematical-expression-using-the-parse-tree
 
 Once you're comfortable with that information, check out the below website to try out some examples. Try putting some expressions into the box named "Normal Text" and then hitting the draw button. Try some of the below expressions:
 
@@ -109,4 +109,4 @@ Try to figure out what the parse trees look like for the following problems. Use
 5. `(2-1)^3`
 6. `120 - 8 *4 + 16 / 12`
 
-https://www.educative.io/answers/how-to-represent-a-mathematical-expression-using-the-parse-tree
+https://trkern.github.io/tree
