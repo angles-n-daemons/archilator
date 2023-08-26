@@ -94,6 +94,8 @@ https://www.educative.io/answers/how-to-represent-a-mathematical-expression-usin
 
 Once you're comfortable with that information, check out the below website to try out some examples. Try putting some expressions into the box named "Normal Text" and then hitting the draw button. Try some of the below expressions:
 
+https://trkern.github.io/tree
+
  - `5 + 4`
  - `5 + 4 * 8`
  - `(5 + 4) * 8`
@@ -109,4 +111,3 @@ Try to figure out what the parse trees look like for the following problems. Use
 5. `(2-1)^3`
 6. `120 - 8 *4 + 16 / 12`
 
-https://trkern.github.io/tree
