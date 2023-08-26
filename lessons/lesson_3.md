@@ -4,8 +4,8 @@ This week we're going to focus on learning about trees. A tree is a data structu
 
 To get started learning about trees, watch the following videos. Watch them multiple times if needed to develop your understanding around how trees work:
 
-https://www.youtube.com/watch?v=oSWTXtMglKE
-https://www.youtube.com/watch?v=1-l_UOFi1Xw
+- https://www.youtube.com/watch?v=oSWTXtMglKE
+- https://www.youtube.com/watch?v=1-l_UOFi1Xw
 
 To test your understanding, see if you can define the following terms:
  - Node
@@ -38,6 +38,9 @@ class BinaryTreeNode {
         // todo, return boolean of if value is in tree
     }
 }
+
+
+// NOTE NOTE: Everything below this is test code, you only need to change implement the above functions
 
 const root = new BinaryTreeNode(10);
 
